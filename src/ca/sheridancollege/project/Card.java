@@ -1,7 +1,8 @@
 /**
  * SYST 17796 Project Base code.
- * Students can modify and extend to implement their game.
- * Add your name as an author and the date!
+ * Author Name: Jingxin Jiang
+ * Student Number:  991657051
+ * Date:2022.01.30
  */
 package ca.sheridancollege.project;
 
