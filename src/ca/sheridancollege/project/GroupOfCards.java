@@ -1,7 +1,7 @@
 /**
  * SYST 17796 Project Base code.
  * 
- * This is Lucy
+ * 
  */
 package ca.sheridancollege.project;
 
