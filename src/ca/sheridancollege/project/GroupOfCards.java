@@ -1,7 +1,9 @@
 /**
  * SYST 17796 Project Base code.
  * Students can modify and extend to implement their game.
- * Andrei Agetano
+ * Author Name: Andrei Agetano
+ * Student Number: 991658663
+ * Date: February 2022
  */
 package ca.sheridancollege.project;
 
