@@ -1,7 +1,7 @@
 /**
  * SYST 17796 Project Base code.
  * 
- * 
+ * Hi! Hope this works. - Brittany
  */
 package ca.sheridancollege.project;
 
