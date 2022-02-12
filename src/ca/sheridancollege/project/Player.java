@@ -2,7 +2,7 @@
  * SYST 17796 Project Base code.
  * 
  * 
- * Brittany branch added.
+ * Brittany branch added
  */
 package ca.sheridancollege.project;
 
