@@ -29,7 +29,7 @@ public class WarCardGameM1 {
         while(true){
 
             //use interaction
-            System.out.println("Player2 enter 1 to start and show your card, enter 0 to quit the game");
+            System.out.println("Player1 enter 1 to start and show your card, enter 0 to quit the game");
             int add1=input.nextInt();
                         
             System.out.println("Player2 enter 1 to start and show your card, enter 0 to quit the game");
