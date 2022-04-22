@@ -37,11 +37,11 @@ public class CarGenerator {
         
         Collections.shuffle(cardDeck, new Random());   
         
-//        deck1.addAll(cardDeck.subList(0, 26));                  
-//        deck2.addAll(cardDeck.subList(26, cardDeck.size()));
+        deck1.addAll(cardDeck.subList(0, 26));                  
+        deck2.addAll(cardDeck.subList(26, cardDeck.size()));
         //Test for user console
-        deck1.addAll(cardDeck.subList(0, 6));                  
-        deck2.addAll(cardDeck.subList(26, 32));
+//        deck1.addAll(cardDeck.subList(0, 6));                  
+//        deck2.addAll(cardDeck.subList(26, 32));
     }
             
     
