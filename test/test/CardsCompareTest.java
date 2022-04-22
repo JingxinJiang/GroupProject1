@@ -38,8 +38,7 @@ public class CardsCompareTest {
         assertEquals(expResult, result);
        
     }
-    
-    //TEST card1 smaller than card2
+        
     @Test
     public void testCardCompare1bigger2Boundary() {
         System.out.println("cardCompare1bigger2");
@@ -50,7 +49,7 @@ public class CardsCompareTest {
         assertEquals(expResult, result);
        
     }
-   
+   //TEST card1 smaller than card2
     @Test
     public void testCardCompare1smaller2Good() {
         System.out.println("cardCompare1smaller2");
